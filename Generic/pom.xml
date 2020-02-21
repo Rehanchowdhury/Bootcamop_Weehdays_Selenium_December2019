@@ -34,6 +34,17 @@
             <artifactId>cucumber-testng</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+
+        </dependency>
+
 
         <dependency>
             <groupId>org.apache.poi</groupId>
