@@ -1,4 +1,4 @@
 package home.pageobject;
 
-public class HomePage {
+public class homePage {
 }
